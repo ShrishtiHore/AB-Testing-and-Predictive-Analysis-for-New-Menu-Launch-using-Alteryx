@@ -20,4 +20,63 @@ To Clean missing, incomplete, duplicate, or dirty data. Use these three raw data
 2. Store list data for A/B Controls tool: Produces which control stores to match with our treatment stores along with results from the A/B Trends Tool
 3. Store sales analysis data for A/B Analysis tool: Produces the final results
 
+## Match and Treatment Control units:
+
+Creation of trends and seasonality variables, and use them along with other control variable(s) to match two control units to each treatment unit. 
+_Note: Calculation done on the number of transactions per store per week to calculate trend and seasonality._
+
+### Control Variables to be considered: AvgMonthSales and Sq_Ft
+
+### Correlation between your each potential control variable and your performance metric: Pearson Correlation Analysis tool
+
+### Control variables will used to match treatment and control stores: AvgMonthSales is statistically significant because the p-value < 0.05.
+
+**Treatment Store	Control Store 1	Control Store 2**
+1664	7162	8112
+1675	1580	1807
+1696	1964	1863
+1700	2014	1630
+1712	8162	7434
+2288	9081	2568
+2293	12219	9524
+2301	3102	9238
+2322	2409	3235
+2341	12536	2383
+
+## Data Analysis and writeup:
+
+### Should the company roll out the updated menu to all stores? 
+
+The company should roll out the updated menu to all stores. Based on the project details, the predicted impact to profitability should be enough to justify the increased marketing budget: at least 18% increase in profit growth compared to the comparative period while compared to the control stores. If we look at the result of average lift (see details in the next two sections) for each region and overall, they are all higher than 18%. Therefore, the company should roll out the updated menu.
+
+### What is the lift from the new menu for West and Central regions (include statistical significance)? 
+
+**West region:** the Average Lift is 37.9% and the Significance Level is 99.5%. See the A/B Test analysis model and report below:
+
+**Central region:** the Average Lift is 43.5% and the Significance Level is 99.5%. See the A/B Test analysis report below:
+
+### What is the lift from the new menu overall?
+
+The lift from the new menu overall is 40.7%. Please see the A/B Test analysis workflow and report below:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
