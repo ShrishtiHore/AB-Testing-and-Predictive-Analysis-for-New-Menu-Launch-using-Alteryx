@@ -20,6 +20,8 @@ To Clean missing, incomplete, duplicate, or dirty data. Use these three raw data
 2. Store list data for A/B Controls tool: Produces which control stores to match with our treatment stores along with results from the A/B Trends Tool
 3. Store sales analysis data for A/B Analysis tool: Produces the final results
 
+<img src="Images/P_PrepareData.PNG" alt="Logo" width="200" height="200">
+
 ## Match and Treatment Control units:
 
 Creation of trends and seasonality variables, and use them along with other control variable(s) to match two control units to each treatment unit. 
