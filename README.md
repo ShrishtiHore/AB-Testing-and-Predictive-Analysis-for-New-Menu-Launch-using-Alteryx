@@ -31,7 +31,17 @@ _Note: Calculation done on the number of transactions per store per week to calc
 
 ### Correlation between your each potential control variable and your performance metric: Pearson Correlation Analysis tool
 
+![correlation](https://github.com/ShrishtiHore/AB-Testing-and-Predictive-Analysis-for-New-Menu-Launch-using-Alteryx/blob/main/Images/P_PearsonCorrelationAnalysis.PNG)
+
 ### Control variables will used to match treatment and control stores: AvgMonthSales is statistically significant because the p-value < 0.05.
+
+![correlation_analysis](https://github.com/ShrishtiHore/AB-Testing-and-Predictive-Analysis-for-New-Menu-Launch-using-Alteryx/blob/main/Images/P_PearsonCorrelationReport.PNG)
+
+![correlation>0.5](https://github.com/ShrishtiHore/AB-Testing-and-Predictive-Analysis-for-New-Menu-Launch-using-Alteryx/blob/main/Images/correlatin%200.5.PNG)
+
+## Workflow for A/B Trends and A/B Control:
+
+![abtrends](https://github.com/ShrishtiHore/AB-Testing-and-Predictive-Analysis-for-New-Menu-Launch-using-Alteryx/blob/main/Images/P_ControlTreatmentPairs.PNG)
 
 ## Data Analysis and writeup:
 
@@ -43,13 +53,31 @@ The company should roll out the updated menu to all stores. Based on the project
 
 **West region:** the Average Lift is 37.9% and the Significance Level is 99.5%. See the A/B Test analysis model and report below:
 
+![west](https://github.com/ShrishtiHore/AB-Testing-and-Predictive-Analysis-for-New-Menu-Launch-using-Alteryx/blob/main/Images/pasted%20image%200.png)
+
+![a](https://github.com/ShrishtiHore/AB-Testing-and-Predictive-Analysis-for-New-Menu-Launch-using-Alteryx/blob/main/Images/pasted%20image%200%20(1).png)
+
+![b](https://github.com/ShrishtiHore/AB-Testing-and-Predictive-Analysis-for-New-Menu-Launch-using-Alteryx/blob/main/Images/pasted%20image%200%20(2).png)
+
+![c](https://github.com/ShrishtiHore/AB-Testing-and-Predictive-Analysis-for-New-Menu-Launch-using-Alteryx/blob/main/Images/pasted%20image%200%20(3).png)
+
 **Central region:** the Average Lift is 43.5% and the Significance Level is 99.5%. See the A/B Test analysis report below:
+
+![d](https://github.com/ShrishtiHore/AB-Testing-and-Predictive-Analysis-for-New-Menu-Launch-using-Alteryx/blob/main/Images/pasted%20image%200%20(4).png)
+
+![e](https://github.com/ShrishtiHore/AB-Testing-and-Predictive-Analysis-for-New-Menu-Launch-using-Alteryx/blob/main/Images/pasted%20image%200%20(5).png)
+
+![f](https://github.com/ShrishtiHore/AB-Testing-and-Predictive-Analysis-for-New-Menu-Launch-using-Alteryx/blob/main/Images/pasted%20image%200%20(6).png)
 
 ### What is the lift from the new menu overall?
 
 The lift from the new menu overall is 40.7%. Please see the A/B Test analysis workflow and report below:
 
+![g](https://github.com/ShrishtiHore/AB-Testing-and-Predictive-Analysis-for-New-Menu-Launch-using-Alteryx/blob/main/Images/pasted%20image%200%20(7).png)
 
+![h](https://github.com/ShrishtiHore/AB-Testing-and-Predictive-Analysis-for-New-Menu-Launch-using-Alteryx/blob/main/Images/pasted%20image%200%20(8).png)
+
+![i](https://github.com/ShrishtiHore/AB-Testing-and-Predictive-Analysis-for-New-Menu-Launch-using-Alteryx/blob/main/Images/pasted%20image%200%20(9).png)
 
 
 
