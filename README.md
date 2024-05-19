@@ -20,7 +20,7 @@ To Clean missing, incomplete, duplicate, or dirty data. Use these three raw data
 2. Store list data for A/B Controls tool: Produces which control stores to match with our treatment stores along with results from the A/B Trends Tool
 3. Store sales analysis data for A/B Analysis tool: Produces the final results
 
-<img src="Images/P_PrepareData.PNG" width="500" height="500">
+![data_clean](https://github.com/ShrishtiHore/AB-Testing-and-Predictive-Analysis-for-New-Menu-Launch-using-Alteryx/blob/main/Images/P_PrepareData.PNG)
 
 ## Match and Treatment Control units:
 
