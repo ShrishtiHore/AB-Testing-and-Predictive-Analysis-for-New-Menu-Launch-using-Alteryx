@@ -31,18 +31,6 @@ _Note: Calculation done on the number of transactions per store per week to calc
 
 ### Control variables will used to match treatment and control stores: AvgMonthSales is statistically significant because the p-value < 0.05.
 
-**Treatment Store	Control Store 1	Control Store 2**
-1664	7162	8112
-1675	1580	1807
-1696	1964	1863
-1700	2014	1630
-1712	8162	7434
-2288	9081	2568
-2293	12219	9524
-2301	3102	9238
-2322	2409	3235
-2341	12536	2383
-
 ## Data Analysis and writeup:
 
 ### Should the company roll out the updated menu to all stores? 
